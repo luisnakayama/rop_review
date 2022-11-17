@@ -1,0 +1,19 @@
+doi,pub_year,objective,camera,image,patients,demog,quality_cont,bias_cont,ext_val,study_nat,aut_nat,avaiable_code
+10.1001/jamaophthalmol.2016.0611,2016,Detecting Plus,Ultra-wide camera,77,NA,No,No,No,No,NA,"USA, SPA, MEX, QAT",No
+10.3341/kjo.2015.0143,2017,Detecting Plus,Retcam,87,NA,No,No,No,No,IRN,IRN,No
+10.1016/j.ebiom.2018.08.033,2018,ROP Grading,NA,7559,605,No,No,No,No,CHN,CHN,Code
+10.1001/jamaophthalmol.2018.1934,2018,Detecting Plus,Retcam,5511,3555,No,No,No,No,"USA, MEX",USA ,No
+10.1109/TMI.2018.2863562,2019,ROP Grading,Retcam,2668,720,No,No,No,No,CHN,CHN,No
+10.1016/j.compmedimag.2019.04.003,2019,Detecting Plus,Retcam,178,NA,No,No,No,No,IND,IND,No
+10.1089/tmj.2019.0004,2020,ROP Grading,Retcam,160,NA,No,No,No,No,IND,IND,No
+10.1111/aos.14264,2020,Detecting Plus,Retcam,5711,3021,No,No,No,No,NA,CHN,No
+10.1167/tvst.9.2.10,2020,Detecting Plus,Retcam,5612,,No,No,No,No,USA ,"USA, GBR",No
+10.1167/tvst.9.2.37,2020,Treatment needed,Retcam,835,90,No,No,No,No,ITA,"ITA, USA",Code
+10.1136/bjophthalmol-2020-316526,2021,ROP Grading,Retcam,2126,61,Sex,Good quality,No,No,TWN,"TWN, JPN, USA",No
+10.1109/TMI.2021.3065753,2021,ROP Grading,Retcam,9794,650,No,No,No,No,CHN,CHN,No
+10.1001/jamanetworkopen.2021.8758,2021,ROP Grading,Retcam,52249,8652,Sex,No,No,No,CHN,CHN,No
+10.1542/peds.2020-016618,2021,Treatment needed,Retcam,4175,363,No,No,No,No,IND,"USA, GBR, CHN",No
+10.1007/s10278-021-00477-8,2021,Detect retinal zones,Retcam and 3nethra Neo,3000,NA,No,Good and bad quality,No,No,IND,IND ,Code
+10.1167/tvst.11.5.17,2022,ROP Grading,Retcam,18827,NA,No,Good quality,No,No,CHN,CHN,No
+10.1001/jamanetworkopen.2022.17447,2022,ROP Prediction,Retcam,7033,725,Sex,Good quality,No,No,CHN,CHN,No
+10.1097/IAE.0000000000003284,2022,Treatment needed,Retcam,54626,2801,No,No,No,No,CHN,CHN,No
