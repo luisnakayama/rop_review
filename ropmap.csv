@@ -1,0 +1,12 @@
+country,continent,patients,authors
+IRN,Asia,1,1
+CHN,Asia,7,8
+USA,North America,2,6
+MEX,North America,1,1
+IND,Asia,4,4
+ITA,Europe,0,1
+TWN,Asia,1,1
+GBR,Europe,0,2
+ESP,Europe,0,1
+QAT,Asia,0,1
+JPN,Asia,0,1
