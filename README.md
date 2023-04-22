@@ -8,3 +8,4 @@ Article authors: Luis Filipe Nakayama, William Greig Mitchell, Lucas Zago Ribeir
 Retinopathy of prematurity is a proliferative retinal vasculopathy and one of the most common avoidable cause of childhood blindess.
 Recognition of pertinent screening periods and timely diagnosis and management are challenging due to the lack of available pediatric ophthalmic specialists. And even when available, the variation in classification standards, equipment and examination technique, and treatment thresholds leads to divergent diagnostic concordance even among experts.
 
+This repository includes the article's summary file, authors and population nationality summary file, the histogram and maps plots.
